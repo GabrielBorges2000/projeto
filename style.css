@@ -1,0 +1,20 @@
+.navbar-brand {
+  font-weight: bold;
+}
+
+.jumbotron {
+  background-color: #007bff;
+  color: white;
+  padding: 100px 25px;
+  margin-bottom: 0;
+  margin: 2rem;
+}
+
+.jumbotron h1 {
+  font-size: 3.5rem;
+}
+
+.section-title {
+  font-size: 2.5rem;
+  margin-bottom: 40px;
+}
